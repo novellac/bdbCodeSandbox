@@ -1,8 +1,8 @@
 {
-  "name": "bdb",
+  "name": "bdbcodesandboxfork",
   "version": "1.0.0",
   "description": "",
-  "author": "Atinux",
+  "author": "CoT",
   "private": true,
   "scripts": {
     "dev": "nuxt dev",

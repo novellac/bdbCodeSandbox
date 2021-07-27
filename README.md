@@ -1,8 +1,6 @@
-# codesandbox-nuxt-tailwindcss
+# Birthday Basher - smol card
 
-> Nuxt starter for CodeSandBox with TailwindCSS
-
-Learn more on [https://tailwindcss.nuxtjs.org](https://tailwindcss.nuxtjs.org).
+> Based on Nuxt starter for CodeSandBox with TailwindCSS
 
 ## Build Setup
 
@@ -22,3 +20,9 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## Roadmap
+
+Some outstanding tasks:
+
+- Import and use our fonts in place of defaults
